@@ -7,10 +7,10 @@ Our members are deeply involved in Cosmos SDK and cosmwasm security research and
 Our journey began in 2021, with @contracthaxor taking the lead. Since then, our members have been actively auditing in the cosmos ecosystem, ensuring the safety and reliability of numerous projects.
 
 🛡️ **Services We Offer**:
+- **Ongoing Security Engagements**: Continuous collaboration with projects to maintain and enhance their security posture.
 - **Audits**: Comprehensive examination of codebases to identify and rectify vulnerabilities.
 - **Security Reviews**: Detailed analysis of systems to ensure they meet the highest security standards.
-- **Ongoing Security Engagements**: Continuous collaboration with projects to maintain and enhance their security posture.
-- **Purple Teaming Services**: Simulated cyberattacks and defense mechanisms to test and improve security resilience.
+- **Purple Teaming Services**: Simulated adversarial scenerios and defense mechanisms to test and improve security resilience.
 
 🔧 **Building for the Future**: 
 We are actively developing security tooling for the cosmos ecosystem, aiming to provide robust solutions that cater to its unique challenges and requirements.
