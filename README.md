@@ -1,0 +1,2 @@
+# .github
+Hack the Contract
