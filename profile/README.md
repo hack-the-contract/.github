@@ -29,15 +29,6 @@ At the heart of our mission lies a commitment to not just identify and rectify s
 - **Interactive Challenges**: Test and apply your knowledge in dynamic environments.
 
 
-## Meet Our Members
-
-**Profile of @contracthaxor**:
-
-@contracthaxor is an adept security engineer with a rich background that covers the entire spectrum of the security domain. Holding a formal education in Cybersecurity and Risk Analysis from a renowned university, he embarked on his cybersecurity journey with consulting roles, offering extensive security operations, engineering, and purple team services to top-tier companies. His journey led him to contribute to the development of leading CSPM tools in renowned cybersecurity firms.
-
-Currently, his primary focus is on auditing Cosmos SDK chains and CosmWasm smart contracts. With a sharp acumen for identifying critical findings in Rust and Go codebases, he is adept at crafting significant test cases and proof of concepts. His vast experience in the field is evident from the numerous successful audits he's conducted, showcasing his skill in safeguarding diverse systems. He has also been instrumental in technical consensus-related audits involving advanced blockchain modules and implementations.
-
-
 **Why Collaborate with Us?**
 - 🚀 Work alongside experts like @contracthaxor and contribute to meaningful projects.
 - 🌐 Engage with a community that's at the forefront of blockchain security research and engineering.
